@@ -1,0 +1,91 @@
+arr_P,dep_date,arr_T,arr_APM,dep_APM,price,dep_T,dep_P,duration,arr_F,arr_date,dep_F,stop_N
+Paris,"Jan 24, Tue",4:55,PM,PM,$540,1:00,Seoul, 35h 55m,CDG,"Jan 25, Wed",ICN,1 stop
+Paris,"Jan 24, Tue",1:40,PM,AM,$582,9:35,Seoul, 36h 5m,CDG,"Jan 25, Wed",ICN,1 stop
+Paris,"Jan 24, Tue",8:55,PM,PM,$591,1:20,Seoul, 15h 35m,CDG,"Jan 24, Tue",ICN,1 stop
+Paris,"Jan 24, Tue",9:50,PM,PM,$591,1:20,Seoul, 16h 30m,CDG,"Jan 24, Tue",ICN,1 stop
+Paris,"Jan 24, Tue",9:10,AM,PM,$591,1:20,Seoul, 27h 50m,CDG,"Jan 25, Wed",ICN,1 stop
+Paris,"Jan 24, Tue",10:45,AM,PM,$591,1:20,Seoul, 29h 25m,CDG,"Jan 25, Wed",ICN,1 stop
+Paris,"Jan 24, Tue",9:15,PM,AM,$603,9:35,Seoul, 19h 40m,CDG,"Jan 24, Tue",ICN,1 stop
+Paris,"Jan 24, Tue",3:00,PM,PM,$607,1:20,Seoul, 33h 40m,CDG,"Jan 25, Wed",ICN,1 stop
+Paris,"Jan 24, Tue",4:45,PM,PM,$607,1:20,Seoul, 35h 25m,CDG,"Jan 25, Wed",ICN,1 stop
+Paris,"Jan 24, Tue",5:50,PM,PM,$607,1:20,Seoul, 36h 30m,CDG,"Jan 25, Wed",ICN,1 stop
+Paris,"Jan 29, Sun",8:55,PM,PM,$591,1:10,Seoul, 15h 45m,CDG,"Jan 29, Sun",ICN,1 stop
+Paris,"Jan 29, Sun",3:00,PM,PM,$591,1:10,Seoul, 33h 50m,CDG,"Jan 30, Mon",ICN,1 stop
+Paris,"Jan 29, Sun",4:45,PM,PM,$591,1:10,Seoul, 35h 35m,CDG,"Jan 30, Mon",ICN,1 stop
+Paris,"Jan 28, Sat",4:55,PM,PM,$554,1:00,Seoul, 35h 55m,CDG,"Jan 29, Sun",ICN,2 stops
+Paris,"Jan 24, Tue",4:55,PM,PM,$540,1:00,Seoul, 35h 55m,CDG,"Jan 25, Wed",ICN,1 stop
+Paris,"Jan 26, Thu",1:40,PM,AM,$582,9:35,Seoul, 36h 5m,CDG,"Jan 27, Fri",ICN,1 stop
+Paris,"Jan 27, Fri",3:00,PM,PM,$591,1:05,Seoul, 33h 55m,CDG,"Jan 28, Sat",ICN,1 stop
+Paris,"Jan 29, Sun",7:05,AM,PM,$611,11:25,Seoul, 39h 40m,CDG,"Jan 31, Tue",ICN,2 stops
+Paris,"Jan 28, Sat",11:55,AM,PM,$591,1:20,Seoul, 30h 35m,CDG,"Jan 29, Sun",ICN,1 stop
+Paris,"Jan 24, Tue",1:40,PM,AM,$582,9:35,Seoul, 36h 5m,CDG,"Jan 25, Wed",ICN,1 stop
+Paris,"Jan 30, Mon",4:55,PM,PM,$384,1:00,Seoul, 59h 55m,CDG,"Feb 1, Wed",ICN,2 stops
+Paris,"Jan 26, Thu",10:35,PM,PM,$594,1:05,Seoul, 17h 30m,ORY,"Jan 26, Thu",ICN,1 stop
+Paris,"Jan 31, Tue",4:55,PM,PM,$370,1:00,Seoul, 35h 55m,CDG,"Feb 1, Wed",ICN,1 stop
+Paris,"Jan 27, Fri",4:45,PM,PM,$591,1:05,Seoul, 35h 40m,CDG,"Jan 28, Sat",ICN,1 stop
+Paris,"Jan 25, Wed",5:00,PM,PM,$566,12:35,Seoul, 12h 25m,CDG,"Jan 25, Wed",ICN,Direct
+Paris,"Jan 29, Sun",9:50,PM,PM,$612,1:10,Seoul, 16h 40m,CDG,"Jan 29, Sun",ICN,1 stop
+Paris,"Jan 28, Sat",12:25,PM,PM,$591,1:20,Seoul, 31h 5m,CDG,"Jan 29, Sun",ICN,1 stop
+Paris,"Jan 24, Tue",8:55,PM,PM,$591,1:20,Seoul, 15h 35m,CDG,"Jan 24, Tue",ICN,1 stop
+Paris,"Jan 30, Mon",9:50,PM,PM,$591,1:10,Seoul, 16h 40m,CDG,"Jan 30, Mon",ICN,1 stop
+Paris,"Jan 26, Thu",9:15,PM,AM,$603,9:35,Seoul, 19h 40m,CDG,"Jan 26, Thu",ICN,1 stop
+Paris,"Jan 31, Tue",8:55,AM,AM,$582,9:35,Seoul, 31h 20m,CDG,"Feb 1, Wed",ICN,1 stop
+Paris,"Jan 27, Fri",9:10,PM,PM,$631,12:50,Seoul, 16h 20m,CDG,"Jan 27, Fri",ICN,1 stop
+Paris,"Jan 25, Wed",8:55,PM,PM,$591,1:10,Seoul, 15h 45m,CDG,"Jan 25, Wed",ICN,1 stop
+Paris,"Jan 29, Sun",9:10,AM,PM,$612,1:10,Seoul, 28h,CDG,"Jan 30, Mon",ICN,1 stop
+Paris,"Jan 28, Sat",5:50,PM,PM,$591,1:20,Seoul, 36h 30m,CDG,"Jan 29, Sun",ICN,1 stop
+Paris,"Jan 24, Tue",9:50,PM,PM,$591,1:20,Seoul, 16h 30m,CDG,"Jan 24, Tue",ICN,1 stop
+Paris,"Jan 30, Mon",10:25,PM,PM,$591,1:10,Seoul, 17h 15m,CDG,"Jan 30, Mon",ICN,1 stop
+Paris,"Jan 26, Thu",8:55,AM,PM,$611,1:05,Seoul, 27h 50m,CDG,"Jan 27, Fri",ICN,1 stop
+Paris,"Jan 31, Tue",9:15,PM,AM,$603,9:35,Seoul, 19h 40m,CDG,"Jan 31, Tue",ICN,1 stop
+Paris,"Jan 27, Fri",5:00,PM,PM,$636,12:35,Seoul, 12h 25m,CDG,"Jan 27, Fri",ICN,Direct
+Paris,"Jan 25, Wed",9:50,PM,PM,$591,1:10,Seoul, 16h 40m,CDG,"Jan 25, Wed",ICN,1 stop
+Paris,"Jan 29, Sun",10:45,AM,PM,$612,1:10,Seoul, 29h 35m,CDG,"Jan 30, Mon",ICN,1 stop
+Paris,"Jan 28, Sat",9:50,PM,PM,$612,1:20,Seoul, 16h 30m,CDG,"Jan 28, Sat",ICN,1 stop
+Paris,"Jan 24, Tue",9:10,AM,PM,$591,1:20,Seoul, 27h 50m,CDG,"Jan 25, Wed",ICN,1 stop
+Paris,"Jan 30, Mon",9:10,AM,PM,$591,1:10,Seoul, 28h,CDG,"Jan 31, Tue",ICN,1 stop
+Paris,"Jan 26, Thu",10:05,PM,AM,$628,9:35,Seoul, 20h 30m,CDG,"Jan 26, Thu",ICN,1 stop
+Paris,"Jan 31, Tue",8:55,AM,PM,$611,2:20,Seoul, 26h 35m,CDG,"Feb 1, Wed",ICN,1 stop
+Paris,"Jan 27, Fri",9:55,PM,PM,$647,12:50,Seoul, 17h 5m,CDG,"Jan 27, Fri",ICN,1 stop
+Paris,"Jan 25, Wed",10:45,AM,PM,$591,1:10,Seoul, 29h 35m,CDG,"Jan 26, Thu",ICN,1 stop
+Paris,"Jan 29, Sun",11:55,AM,PM,$612,1:10,Seoul, 30h 45m,CDG,"Jan 30, Mon",ICN,1 stop
+Paris,"Jan 28, Sat",10:25,PM,PM,$612,1:20,Seoul, 17h 5m,CDG,"Jan 28, Sat",ICN,1 stop
+Paris,"Jan 24, Tue",10:45,AM,PM,$591,1:20,Seoul, 29h 25m,CDG,"Jan 25, Wed",ICN,1 stop
+Paris,"Jan 30, Mon",10:45,AM,PM,$591,1:10,Seoul, 29h 35m,CDG,"Jan 31, Tue",ICN,1 stop
+Paris,"Jan 26, Thu",9:55,PM,PM,$647,12:50,Seoul, 17h 5m,CDG,"Jan 26, Thu",ICN,1 stop
+Paris,"Jan 31, Tue",8:05,PM,AM,$623,11:05,Seoul, 17h,CDG,"Jan 31, Tue",ICN,1 stop
+Paris,"Jan 27, Fri",9:50,PM,PM,$654,1:10,Seoul, 16h 40m,CDG,"Jan 27, Fri",ICN,1 stop
+Paris,"Jan 25, Wed",12:25,PM,PM,$607,1:10,Seoul, 31h 15m,CDG,"Jan 26, Thu",ICN,1 stop
+Paris,"Jan 29, Sun",5:00,PM,PM,$613,12:35,Seoul, 12h 25m,CDG,"Jan 29, Sun",ICN,Direct
+Paris,"Jan 28, Sat",9:10,AM,PM,$612,1:20,Seoul, 27h 50m,CDG,"Jan 29, Sun",ICN,1 stop
+Paris,"Jan 24, Tue",9:15,PM,AM,$603,9:35,Seoul, 19h 40m,CDG,"Jan 24, Tue",ICN,1 stop
+Paris,"Jan 30, Mon",11:55,AM,PM,$607,1:10,Seoul, 30h 45m,CDG,"Jan 31, Tue",ICN,1 stop
+Paris,"Jan 26, Thu",9:50,PM,PM,$654,1:20,Seoul, 16h 30m,CDG,"Jan 26, Thu",ICN,1 stop
+Paris,"Jan 31, Tue",10:05,PM,AM,$628,9:35,Seoul, 20h 30m,CDG,"Jan 31, Tue",ICN,1 stop
+Paris,"Jan 27, Fri",9:10,AM,PM,$654,1:10,Seoul, 28h,CDG,"Jan 28, Sat",ICN,1 stop
+Paris,"Jan 25, Wed",3:00,PM,PM,$607,1:10,Seoul, 33h 50m,CDG,"Jan 26, Thu",ICN,1 stop
+Paris,"Jan 29, Sun",1:45,PM,PM,$651,11:55,Seoul, 21h 50m,CDG,"Jan 30, Mon",ICN,1 stop
+Paris,"Jan 28, Sat",10:45,AM,PM,$612,1:20,Seoul, 29h 25m,CDG,"Jan 29, Sun",ICN,1 stop
+Paris,"Jan 24, Tue",3:00,PM,PM,$607,1:20,Seoul, 33h 40m,CDG,"Jan 25, Wed",ICN,1 stop
+Paris,"Jan 30, Mon",12:25,PM,PM,$607,1:10,Seoul, 31h 15m,CDG,"Jan 31, Tue",ICN,1 stop
+Paris,"Jan 26, Thu",11:55,AM,PM,$654,1:20,Seoul, 30h 35m,CDG,"Jan 27, Fri",ICN,1 stop
+Paris,"Jan 31, Tue",10:05,AM,PM,$628,2:20,Seoul, 27h 45m,CDG,"Feb 1, Wed",ICN,1 stop
+Paris,"Jan 27, Fri",3:00,PM,PM,$654,1:10,Seoul, 33h 50m,CDG,"Jan 28, Sat",ICN,1 stop
+Paris,"Jan 25, Wed",4:45,PM,PM,$607,1:10,Seoul, 35h 35m,CDG,"Jan 26, Thu",ICN,1 stop
+Paris,"Jan 28, Sat",5:00,PM,PM,$613,12:35,Seoul, 12h 25m,CDG,"Jan 28, Sat",ICN,Direct
+Paris,"Jan 24, Tue",4:45,PM,PM,$607,1:20,Seoul, 35h 25m,CDG,"Jan 25, Wed",ICN,1 stop
+Paris,"Jan 30, Mon",3:00,PM,PM,$607,1:10,Seoul, 33h 50m,CDG,"Jan 31, Tue",ICN,1 stop
+Paris,"Jan 26, Thu",3:00,PM,PM,$654,1:20,Seoul, 33h 40m,CDG,"Jan 27, Fri",ICN,1 stop
+Paris,"Jan 31, Tue",1:45,PM,PM,$632,11:55,Seoul, 21h 50m,CDG,"Feb 1, Wed",ICN,1 stop
+Paris,"Jan 27, Fri",4:45,PM,PM,$654,1:10,Seoul, 35h 35m,CDG,"Jan 28, Sat",ICN,1 stop
+Paris,"Jan 25, Wed",9:10,AM,PM,$612,1:10,Seoul, 28h,CDG,"Jan 26, Thu",ICN,1 stop
+Paris,"Jan 28, Sat",1:40,PM,AM,$629,9:35,Seoul, 36h 5m,CDG,"Jan 29, Sun",ICN,1 stop
+Paris,"Jan 24, Tue",5:50,PM,PM,$607,1:20,Seoul, 36h 30m,CDG,"Jan 25, Wed",ICN,1 stop
+Paris,"Jan 30, Mon",4:45,PM,PM,$607,1:10,Seoul, 35h 35m,CDG,"Jan 31, Tue",ICN,1 stop
+Paris,"Jan 26, Thu",4:45,PM,PM,$654,1:20,Seoul, 35h 25m,CDG,"Jan 27, Fri",ICN,1 stop
+Paris,"Jan 31, Tue",8:10,PM,PM,$657,11:55,Seoul, 28h 15m,ORY,"Feb 1, Wed",ICN,2 stops
+Paris,"Jan 27, Fri",8:55,PM,PM,$678,1:10,Seoul, 15h 45m,CDG,"Jan 27, Fri",ICN,1 stop
+Paris,"Jan 25, Wed",3:00,PM,PM,$654,1:05,Seoul, 33h 55m,CDG,"Jan 26, Thu",ICN,1 stop
+Paris,"Jan 30, Mon",5:50,PM,PM,$607,1:10,Seoul, 36h 40m,CDG,"Jan 31, Tue",ICN,1 stop
+Paris,"Jan 31, Tue",12:30,PM,AM,$681,12:50,Seoul, 19h 40m,CDG,"Jan 31, Tue",ICN,1 stop
+Paris,"Jan 25, Wed",4:45,PM,PM,$654,1:05,Seoul, 35h 40m,CDG,"Jan 26, Thu",ICN,1 stop

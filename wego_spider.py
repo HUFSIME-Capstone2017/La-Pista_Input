@@ -39,8 +39,16 @@ class WegoSpider(scrapy.Spider):
             item["arr_date"] = row.xpath('./div/div/div[2]/div[1]/div[2]/div/div[3]/div[2]/div[1]/div[2]/text()')[0].extract()
             yield item
 
-        for x in range(24, 32):
-            next_page = "http://www.jetradar.com/searches/CSEL" + str(x) + "01CPARY1"
-            if next_page is not None:
-                next_page = response.urljoin(next_page)
-                yield scrapy.Request(next_page, callback=self.parse)
+        dep = ['ICN', 'PAR']
+
+        for a in dep:
+            for b in dep:
+                if a != b:
+                    for month in range(2, 5):
+                        for day in range(1, 32):
+                            if day < 10:
+                                day = "0" + str(day)
+                                next_page = "http://www.jetradar.com/searches/A" + a + str(day) + "0" + str(month) + "A" + b + "Y1"
+                            elif day == day:
+                                next_page = "http://www.jetradar.com/searches/A" + a + str(day) + "0" + str(month) + "A" + b + "Y1"
+                            yield scrapy.Request(next_page, callback=self.parse)
